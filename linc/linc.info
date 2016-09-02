@@ -1,3 +1,4 @@
-name: LINC
-description: butts
-core: 7.x
+name= LINC
+description= Learning in Neural Circuits
+core= 7.x
+package= LINC

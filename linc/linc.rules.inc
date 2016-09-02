@@ -4,7 +4,7 @@
  * @file rules integration for the linc module 
  *
  * @addtogroup rules
- * @{
+ * 
  */
 
 /**
