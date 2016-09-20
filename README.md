@@ -14,12 +14,6 @@ Copy the `linc/` folder to `/drupal/path/sites/all/modules/`
 Enable in drupal
 
 
-## TODO
-- Store cage history of mice
-
-Possible history solutions
-- Relations for past relations, such as `wasIncage`, or `hadProtocol`
-
 ## Functionality
 - destroy all relations of a type, containing a specified entity
 Used for removing an entity from other relations so that ex. a mouse isn't in multiple cages.
